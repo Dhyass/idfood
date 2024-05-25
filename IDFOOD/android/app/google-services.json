@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157893563171",
+    "project_id": "idfood-ac307",
+    "storage_bucket": "idfood-ac307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157893563171:android:73f91fa0a376296952b296",
+        "android_client_info": {
+          "package_name": "com.dhyass.idfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157893563171-r96qjsk267j9oi45t18i9vp9cjuhdrqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Sn7DtU3CLVIIC1hO-W4HLOcuTmQX6Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157893563171-r96qjsk267j9oi45t18i9vp9cjuhdrqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
